@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assault_Cube_Memory", "Assault_Cube_Memory.csproj", "{43736EDC-698C-4A3C-A227-AA9A3D9F7681}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43736EDC-698C-4A3C-A227-AA9A3D9F7681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43736EDC-698C-4A3C-A227-AA9A3D9F7681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43736EDC-698C-4A3C-A227-AA9A3D9F7681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43736EDC-698C-4A3C-A227-AA9A3D9F7681}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {39A70EAF-BDA0-4E72-88A3-8E76DD4EB9C7}
+	EndGlobalSection
+EndGlobal
